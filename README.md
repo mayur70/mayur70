@@ -10,10 +10,11 @@ I'm a Software Engineer 💻!
 
 ## 🌱 I'm currently working on
 
+- Complete Roguelike Game in C 
 - Java + Spring boot Projects
 
 ## 🌱 I'm currently learning
-
+- C
 - C++
 - Python
 - C#
