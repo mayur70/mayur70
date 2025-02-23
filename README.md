@@ -17,6 +17,5 @@ I'm a Software Engineer 💻!
 - C
 - C++
 - Python
-- C#
-- Xamarin
-- Graphics Programmin
+- Java
+- Graphics Programming
